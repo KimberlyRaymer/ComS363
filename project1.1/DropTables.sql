@@ -1,1 +1,0 @@
-DROP TABLE if exists courses, degrees, departments, major, minor, register, students;
